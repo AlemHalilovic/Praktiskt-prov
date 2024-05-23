@@ -12,3 +12,17 @@ C:\Users\Admin\Documents\GitHub\Unity-Shaders\HYJjutuj\Praktiskt-prov\obj\Debug\
 C:\Users\Admin\Documents\GitHub\Unity-Shaders\HYJjutuj\Praktiskt-prov\obj\Debug\net7.0\Praktiskt-prov.pdb
 C:\Users\Admin\Documents\GitHub\Unity-Shaders\HYJjutuj\Praktiskt-prov\obj\Debug\net7.0\Praktiskt-prov.genruntimeconfig.cache
 C:\Users\Admin\Documents\GitHub\Unity-Shaders\HYJjutuj\Praktiskt-prov\obj\Debug\net7.0\ref\Praktiskt-prov.dll
+C:\Users\Admin\Documents\GitHub\Unity-Shaders\HYJjutuj\Praktiskt-prov\Praktiskt-prov\bin\Debug\net7.0\Praktiskt-prov.exe
+C:\Users\Admin\Documents\GitHub\Unity-Shaders\HYJjutuj\Praktiskt-prov\Praktiskt-prov\bin\Debug\net7.0\Praktiskt-prov.deps.json
+C:\Users\Admin\Documents\GitHub\Unity-Shaders\HYJjutuj\Praktiskt-prov\Praktiskt-prov\bin\Debug\net7.0\Praktiskt-prov.runtimeconfig.json
+C:\Users\Admin\Documents\GitHub\Unity-Shaders\HYJjutuj\Praktiskt-prov\Praktiskt-prov\bin\Debug\net7.0\Praktiskt-prov.dll
+C:\Users\Admin\Documents\GitHub\Unity-Shaders\HYJjutuj\Praktiskt-prov\Praktiskt-prov\bin\Debug\net7.0\Praktiskt-prov.pdb
+C:\Users\Admin\Documents\GitHub\Unity-Shaders\HYJjutuj\Praktiskt-prov\Praktiskt-prov\obj\Debug\net7.0\Praktiskt-prov.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\GitHub\Unity-Shaders\HYJjutuj\Praktiskt-prov\Praktiskt-prov\obj\Debug\net7.0\Praktiskt-prov.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\GitHub\Unity-Shaders\HYJjutuj\Praktiskt-prov\Praktiskt-prov\obj\Debug\net7.0\Praktiskt-prov.AssemblyInfo.cs
+C:\Users\Admin\Documents\GitHub\Unity-Shaders\HYJjutuj\Praktiskt-prov\Praktiskt-prov\obj\Debug\net7.0\Praktiskt-prov.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\GitHub\Unity-Shaders\HYJjutuj\Praktiskt-prov\Praktiskt-prov\obj\Debug\net7.0\Praktiskt-prov.dll
+C:\Users\Admin\Documents\GitHub\Unity-Shaders\HYJjutuj\Praktiskt-prov\Praktiskt-prov\obj\Debug\net7.0\refint\Praktiskt-prov.dll
+C:\Users\Admin\Documents\GitHub\Unity-Shaders\HYJjutuj\Praktiskt-prov\Praktiskt-prov\obj\Debug\net7.0\Praktiskt-prov.pdb
+C:\Users\Admin\Documents\GitHub\Unity-Shaders\HYJjutuj\Praktiskt-prov\Praktiskt-prov\obj\Debug\net7.0\Praktiskt-prov.genruntimeconfig.cache
+C:\Users\Admin\Documents\GitHub\Unity-Shaders\HYJjutuj\Praktiskt-prov\Praktiskt-prov\obj\Debug\net7.0\ref\Praktiskt-prov.dll

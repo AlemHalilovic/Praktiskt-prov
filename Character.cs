@@ -24,6 +24,13 @@ namespace Praktiskt_prov
         {
             return Hp;
         } 
+        public void TakeDamage(int damage){
+            Hp -= damage;
+            Console.WriteLine($"{Name} tog {damage} skada och har nu bara {Hp} hp kvar");
+            if (Hp <= 0){
+                Console.WriteLine($"{Name} dog :(");
+            }
+        }
 
         public abstract int Attack();
     }
