@@ -1,6 +1,6 @@
 namespace Praktiskt_prov
 {
-    abstract class Character
+   public abstract class Character
     {
         protected int Hp;
         private string Name;
@@ -9,6 +9,7 @@ namespace Praktiskt_prov
         {
             this.Hp = hp;
             this.Name = name;
+            
         }
 
         public void SetHealth(int value)
@@ -28,7 +29,7 @@ namespace Praktiskt_prov
             Hp -= damage;
             Console.WriteLine($"{Name} tog {damage} skada och har nu bara {Hp} hp kvar");
             if (Hp <= 0){
-                Console.WriteLine($"{Name} dog :(");
+                Console.WriteLine($"{Name} dog");
             }
         }
 

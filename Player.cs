@@ -7,29 +7,21 @@ namespace Praktiskt_prov
         private int FireBallUses = 5;
         private int LightningUses = 2;
 
+        private int damage = 0;
+
         public Player(int hp, string name) : base(hp, name) { 
 
         }
 
-        public override int Attack()
+       public override int Attack()
         {
-            return 0;
+            
+          return damage ;
         }
-        public void PlayerAttacks(){
-            int damage = 0;
-             
 
-          
-            
-            
-           
-
-
- 
-           
-            }
               public void AttackChoice(){
-            int damage = 0;
+              
+              
              
              int attackChoice = int.Parse(Console.ReadLine());
             switch (attackChoice){
@@ -38,7 +30,8 @@ namespace Praktiskt_prov
                 if(ZapUses > 0){
                     damage = 10;
                     ZapUses--;
-                    Console.WriteLine($"{GetName()} använde Zap och gjorde{damage}, du har nu:{ZapUses} kvar");
+                    Console.WriteLine($"{GetName()} använde Zap och gjorde {damage} damage, du har nu:{ZapUses} kvar");
+              
                 }
                 else {
                     Console.WriteLine("Du har inga Zaps kvar");
@@ -48,7 +41,7 @@ namespace Praktiskt_prov
                 if(FireBallUses > 0){
                     damage = 20;
                     FireBallUses--;
-                    Console.WriteLine($"{GetName()} använde Fireball och gjorde{damage}, du har nu:{FireBallUses} kvar");
+                    Console.WriteLine($"{GetName()} använde Fireball och gjorde {damage} damage, du har nu:{FireBallUses} kvar");
                 }
                 else {
                     Console.WriteLine("Du har inga Fireballs kvar");
@@ -58,7 +51,7 @@ namespace Praktiskt_prov
                 if(LightningUses > 0){
                     damage = 60;
                     LightningUses--;
-                    Console.WriteLine($"{GetName()} använde lightning och gjorde{damage}, du har nu:{LightningUses} kvar");
+                    Console.WriteLine($"{GetName()} använde lightning och gjorde {damage} damage, du har nu:{LightningUses} kvar");
                 }
                 else {
                     Console.WriteLine("Du har inga Lightnings kvar");
@@ -66,7 +59,9 @@ namespace Praktiskt_prov
                 break;
                 default:
                 Console.WriteLine("Ogiltigt val");
-                break;
+                break; 
+                
+                
         }
     }
 }
